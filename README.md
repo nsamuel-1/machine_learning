@@ -1,5 +1,4 @@
 # Machine Learning
-Regression, Classification & Clustering
 
 This repository contains a collection of machine learning projects covering both supervised and unsupervised learning techniques. 
 
